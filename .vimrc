@@ -14,4 +14,4 @@ if has("multi_byte")
     setglobal fileencoding=utf-8 bomb
     set fileencodings=utf-8,cp1251,koi8-r,latin1
     set fileformats=unix,dos,mac
-"endif
+endif
