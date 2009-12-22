@@ -1,9 +1,7 @@
 syntax on
+filetype on
 filetype plugin on
-colorscheme vividchalk
-
-autocmd FileType ruby,eruby set omnifunc=rubycomplete#Complete
-
+" colorscheme vividchalk
 
 " Auto-Detecting charset
 if has("multi_byte")
